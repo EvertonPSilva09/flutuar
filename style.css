@@ -13,4 +13,19 @@ h1 span {
   font-weight: bold;
 }
 
+p {
+  color: #828282;
 
+  text-align: center;
+
+  font-family: Open Sans;
+}
+
+p span {
+  color: #3f3d56;
+  font-weight: bold;
+}
+
+p strong {
+  font-weight: bold;
+}
