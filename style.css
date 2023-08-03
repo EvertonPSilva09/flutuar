@@ -18,6 +18,12 @@ body {
 	margin: 0;
 }
 
+#main {
+	width: 626px;
+
+	margin: 0 auto 64px;
+}
+
 p {
   color: #828282;
 
