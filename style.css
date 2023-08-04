@@ -12,21 +12,20 @@ h1 span {
 }
 
 body {
-	font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 
-	text-align: center;
-	margin: 0;
+  text-align: center;
+  margin: 0;
 }
 
 #main {
-	width: 626px;
+  width: 626px;
 
-	margin: 0 auto 64px;
+  margin: 64px auto 64px;
 }
 
 p {
   color: #828282;
-
 }
 
 p span {
