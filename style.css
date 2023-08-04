@@ -59,6 +59,10 @@ p span,
 }
 
 #wave {
-  width: 100%;
+	width: 100%;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0);
+	bottom: 0;
   margin-top: 4.5rem;
 }
