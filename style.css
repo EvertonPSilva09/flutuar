@@ -2,10 +2,10 @@ h1 {
   color: #3f3d56;
 
   font-family: "Dosis", sans-serif;
-  font-size: 32px;
+  font-size: 2rem;
   font-weight: normal;
 
-  margin-top: 32px;
+  margin-top: 2rem;
 }
 
 h1 span {
@@ -21,9 +21,9 @@ body {
 }
 
 #main {
-  width: 626px;
+  width: 39.1rem;
 
-  margin: 64px auto 64px;
+  margin: 4rem auto 4rem;
 }
 
 p {
@@ -46,19 +46,19 @@ p span,
 }
 
 #line {
-  width: 391px;
+  width: 24.4rem;
   height: 0px;
 
-  margin: 0 auto 16px;
+  margin: 0 auto 1rem;
 
   border: 1px solid #eceff2;
 }
 
 #footer a + a {
-  margin-left: 42px;
+  margin-left: 2.6rem;
 }
 
 #wave {
   width: 100%;
-  margin-top: 72px;
+  margin-top: 4.5rem;
 }
