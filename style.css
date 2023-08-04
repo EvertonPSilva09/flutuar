@@ -4,6 +4,8 @@ h1 {
   font-family: "Dosis", sans-serif;
   font-size: 32px;
   font-weight: normal;
+
+  margin-top: 32px;
 }
 
 h1 span {
@@ -28,11 +30,35 @@ p {
   color: #828282;
 }
 
-p span {
-  color: #3f3d56;
+p span,
+p strong {
   font-weight: bold;
 }
 
-p strong {
+p span,
+#footer a {
+  color: #3f3d56;
+}
+
+#footer a {
   font-weight: bold;
+  text-decoration: none;
+}
+
+#line {
+  width: 391px;
+  height: 0px;
+
+  margin: 0 auto 16px;
+
+  border: 1px solid #eceff2;
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+#wave {
+  width: 100%;
+  margin-top: 72px;
 }
